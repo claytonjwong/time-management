@@ -11,3 +11,8 @@ In the long run, we're all dead.
 
 * Previously humanity was a task-based society; currently it is time-based society (get more done is less time)
 * We don't have time for everything in our short lives
+
+### 2. The Efficiency Trap
+
+* The faster we do more, the more quickly we make room for more do to
+* A pitfall of convenience is we continually expect more from the time we saved
