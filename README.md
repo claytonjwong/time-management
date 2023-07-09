@@ -9,7 +9,7 @@ In the long run, we're all dead.
 
 ### 1. The Limit Embracing Life
 
-* Previously humanity was a task-based society; currently it is time-based society (get more done is less time)
+* Previously humanity was a task-based society; currently it is time-based society (get more done in less time)
 * We don't have time for everything in our short lives
 
 ### 2. The Efficiency Trap
